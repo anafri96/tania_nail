@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+
+.imgnails{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%; 
+       
+}
+
+.cart{
+    width: 3%;
+}
+
+.bg-image{
+    background: url('../Homepage photos/flower.jpg') no-repeat   center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    
+    
+    .navbar-nav {
+        float:none;
+        margin:0 auto;
+        display: block;
+        text-align: center;
+    }
+
+    .div1 {
+        text-align: right;
+        margin-right: 1%;
+     }
+
+     .font{
+        font-family: "Courier New", monospace;
+    }
+    .cd-cart{
+        width: 10%;
+        margin-left: 95%;
+    
+    }
+    a[disabled="disabled"] {
+        cursor: not-allowed;
+    }
+    
+    
+    .container {
+        background-color: white;
+        text-align: center;
+        box-shadow: 0 20px 20px rgba(231, 142, 191, 0.58);
+        border-radius: 16px;
+        margin-top: 50px;
+        margin-bottom: 50px
+    }
+
+    .profile_team img{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%
+    }
+    
+    #button_learn{
+        border-bottom-style: solid;
+        color:palevioletred;
+    }
+
+    
+    .profile img {
+        width: 68px;
+        height: 68px;
+        border-radius: 50%
+    }
+
+    .row {
+        padding-bottom: 53px
+    }
+    
+    
+    
+    .header2 {
+        padding-top: 35px;
+        padding-bottom: 50px;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: x-large;
+    }
+
+  .nails title{
+      width: 100%;
+      height: 20px;
+  }
+
+.back{
+    background-image: url("../Costumers photos/flowerspink.webp");
+}
+
+.name{
+    font-size: 11px;
+}

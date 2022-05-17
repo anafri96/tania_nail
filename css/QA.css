@@ -1,0 +1,171 @@
+.bg-image{
+    background: url('../Homepage photos/flower.jpg') no-repeat   center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+.imgnails{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%; 
+           
+}
+
+  .div1 {
+    text-align: right;
+    margin-right: 1%;
+  }
+.cart{
+    width: 3%;
+}
+.cd-cart{
+    width: 10%;
+    margin-left: 95%;
+
+}
+a[disabled="disabled"] {
+    cursor: not-allowed;
+}
+
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+ /*FAQS*/
+.layout {
+   
+    margin: auto;
+ }
+ 
+.accordion {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: rgb(236, 225, 232);
+    border-radius: 10px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.form{
+    align-items: center;
+    /* justify-content: center; */
+    /* display: flex; */
+    padding: 30px 40px;
+    
+}
+
+.container{
+    background-color: lavenderblush;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px violet;
+    
+}
+
+#all{
+    width: 55%;
+    
+}
+
+.font{
+    font-family: "Courier New", monospace;
+}
+
+.fontinside{
+    font-family: "Courier New", monospace;
+    text-decoration: underline;
+}
+
+.header{
+    padding: 20px ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:x-large;
+    
+}
+
+h1{
+     text-align:center;
+     font-family: 'Courier New', Courier, monospace;
+}
+
+.form-control{
+    display: block;
+}
+
+.form-control label{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.form-control input{
+    border:2px solid gray;
+border-radius: 4px;
+display: block;
+
+}
+
+.form-control textarea{
+    border:2px solid gray;
+border-radius: 4px;
+display: block;
+
+}
+
+.form-control.success input{
+    border-color: #2ecc71;
+}
+.form-control.success textarea{
+    border-color: #2ecc71;
+}
+.form-control.error input{
+    border-color: #e74c3c;
+}
+.form-control.error textarea{
+    border-color: #e74c3c;
+}
+
+.form-control small{
+    visibility: hidden;
+}
+.form-control.success i{
+    color:#2ecc71 ;
+}
+
+.form-control.error i{
+   color: #e74c3c;
+}
+
+
+
+.form-control.error small{
+    visibility: visible;
+    color:#e74c3c ;
+}
+    .form button{
+        background-color: rgb(248, 226, 248);
+        border: 2px solid gray;
+        display: block;
+        /* width: 100%; */
+        margin-top: 10px;
+        border-radius: 4px;
+        
+    }
+
+    #fa fa-mobile{
+        color: #2ecc71;
+        font-size:24px;
+    }
+
+
+
+    
